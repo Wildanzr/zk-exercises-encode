@@ -1,0 +1,3 @@
+[submodule "codes/zk-exercise"]
+	path = codes/zk-exercise
+	url = https://github.com/Wildanzr/ZeroKnowledgeBootcamp.git
